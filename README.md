@@ -1,5 +1,5 @@
 VIRTUAL WHITEBOARD USING OpenCV
-Ever dreamed of drawing in the air with just a wave of your finger? This project, "Air Canvas," allows you to sketch your imagination by tracking the movement of a colored marker with your camera. In this setup, a colored object placed at the tip of your finger serves as the marker.
+Ever dreamed of drawing in the air with just a wave of your finger? This project, "Virtual Whiteboard," allows you to sketch your imagination by tracking the movement of a colored marker with your camera. In this setup, a colored object placed at the tip of your finger serves as the marker.
 
 We’ll utilize OpenCV’s computer vision techniques to bring this project to life. While Python is the recommended language due to its extensive libraries and user-friendly syntax, the fundamental concepts can be implemented in any language supported by OpenCV.
 
@@ -25,4 +25,4 @@ NumPy
 
 OpenCV
 
-By following these steps, you'll be able to create an Air Canvas that allows you to draw anything just by moving a colored marker in front of your camera.
+By following these steps, you'll be able to create a Virtual Whiteboard that allows you to draw anything just by moving a colored marker in front of your camera.
